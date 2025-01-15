@@ -500,6 +500,7 @@ PROJECTS*/
 .project_description--link{
     font-size: 20px;
     margin-right: 16px;
+    color: white;
 }
 .project__description--para{
     font-size: 16px;
